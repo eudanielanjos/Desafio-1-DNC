@@ -1,3 +1,2 @@
 # Desafio-1-DNC
-
-Desafio Dnc Modulo Base
+Desafio Dnc Modulo Base.
